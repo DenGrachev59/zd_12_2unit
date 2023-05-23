@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "zd-12-2unittest final"
+version = "0.1.0"
+description = ""
+authors = ["<Grachev Den> <<2717087@mail.ru>>"]
+readme = "README.md"
+packages = [{include = "zd_12_2unittest final"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
