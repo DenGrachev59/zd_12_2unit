@@ -8,6 +8,7 @@ packages = [{include = "zd_12_2unittest final"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+coverage = "^7.2.5"
 
 
 [build-system]
